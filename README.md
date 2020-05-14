@@ -1,0 +1,2 @@
+# Northeastern-University-Projects
+This Repository contains all the pieces of code and reports of my Projects while I'm at Northeastern University College Of Professional Studies Data Analytics Major. This Repository include usage of R language, Tableau, Advanced Excel Function, Tableau Dashboards, RShiny Dashboards, Datasets under analysis. Reference to the respective authors is provided wherever necessary. 
